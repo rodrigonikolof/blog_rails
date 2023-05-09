@@ -1,24 +1,6 @@
-# README
+# Rails Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h3> What is it? </h3>
+It makes use of the full MVP structure from Ruby on Rails to create a fullstack application. 
+User access is secured by use of the Devise Gem. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
